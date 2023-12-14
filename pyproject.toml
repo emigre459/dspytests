@@ -14,6 +14,9 @@ Sphinx = "*"
 coverage = "^7.3.2"
 awscli = "^1.31.13"
 flake8 = "^6.1.0"
+dspy-ai = "^2.0.7"
+pandas = "*"
+rich = "*"
 
 
 [build-system]
